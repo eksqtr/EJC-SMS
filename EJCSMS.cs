@@ -10,9 +10,9 @@
 
                                 EJC Short Message Service v0.5
 
-                    Having troubled making your own Send and Read Messages code for your 
+                   Having trouble on making your own Send and Read Messages code for your 
             Project / System using your GSM Modem Device? Say no more. EJC SMS (EJC Short 
-            Message Service) is a custom class that use AT Comamnd will let you to Send 
+            Message Service) is a library that use AT Comamnd will let you to Send 
             and Read Messages at ease in which helps you to minimized your time developing 
             your system with SMS Feature.
 
