@@ -1,0 +1,18 @@
+D:\06_My Documents\Visual Studio 2019\SMS Sender\bin\Debug\SMS Sender.exe.config
+D:\06_My Documents\Visual Studio 2019\SMS Sender\bin\Debug\SMS Sender.exe
+D:\06_My Documents\Visual Studio 2019\SMS Sender\bin\Debug\SMS Sender.pdb
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\EJC SMS.csprojAssemblyReference.cache
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\SMS_Sender.frmMain.resources
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\SMS_Sender.Properties.Resources.resources
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\EJC SMS.csproj.GenerateResource.cache
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\SMS Sender.exe
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\SMS Sender.pdb
+D:\06_My Documents\Visual Studio 2019\EJC SMS\bin\Debug\SMS Sender.exe.config
+D:\06_My Documents\Visual Studio 2019\EJC SMS\bin\Debug\SMS Sender.exe
+D:\06_My Documents\Visual Studio 2019\EJC SMS\bin\Debug\SMS Sender.pdb
+D:\06_My Documents\Visual Studio 2019\EJC SMS\obj\Debug\EJC SMS.csprojAssemblyReference.cache
+D:\06_My Documents\Visual Studio 2019\EJC SMS\obj\Debug\SMS_Sender.frmMain.resources
+D:\06_My Documents\Visual Studio 2019\EJC SMS\obj\Debug\SMS_Sender.Properties.Resources.resources
+D:\06_My Documents\Visual Studio 2019\EJC SMS\obj\Debug\EJC SMS.csproj.GenerateResource.cache
+D:\06_My Documents\Visual Studio 2019\EJC SMS\obj\Debug\SMS Sender.exe
+D:\06_My Documents\Visual Studio 2019\EJC SMS\obj\Debug\SMS Sender.pdb

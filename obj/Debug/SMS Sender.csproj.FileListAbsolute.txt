@@ -1,0 +1,18 @@
+c:\users\kawai\documents\visual studio 2013\Projects\SMS Sender\SMS Sender\bin\Debug\SMS Sender.exe.config
+c:\users\kawai\documents\visual studio 2013\Projects\SMS Sender\SMS Sender\bin\Debug\SMS Sender.exe
+c:\users\kawai\documents\visual studio 2013\Projects\SMS Sender\SMS Sender\bin\Debug\SMS Sender.pdb
+c:\users\kawai\documents\visual studio 2013\Projects\SMS Sender\SMS Sender\obj\Debug\SMS Sender.csprojResolveAssemblyReference.cache
+c:\users\kawai\documents\visual studio 2013\Projects\SMS Sender\SMS Sender\obj\Debug\SMS_Sender.Form1.resources
+c:\users\kawai\documents\visual studio 2013\Projects\SMS Sender\SMS Sender\obj\Debug\SMS_Sender.Properties.Resources.resources
+c:\users\kawai\documents\visual studio 2013\Projects\SMS Sender\SMS Sender\obj\Debug\SMS Sender.csproj.GenerateResource.Cache
+c:\users\kawai\documents\visual studio 2013\Projects\SMS Sender\SMS Sender\obj\Debug\SMS Sender.exe
+c:\users\kawai\documents\visual studio 2013\Projects\SMS Sender\SMS Sender\obj\Debug\SMS Sender.pdb
+D:\06_My Documents\Visual Studio 2019\SMS Sender\bin\Debug\SMS Sender.exe.config
+D:\06_My Documents\Visual Studio 2019\SMS Sender\bin\Debug\SMS Sender.exe
+D:\06_My Documents\Visual Studio 2019\SMS Sender\bin\Debug\SMS Sender.pdb
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\SMS Sender.csprojAssemblyReference.cache
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\SMS_Sender.Form1.resources
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\SMS_Sender.Properties.Resources.resources
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\SMS Sender.csproj.GenerateResource.cache
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\SMS Sender.exe
+D:\06_My Documents\Visual Studio 2019\SMS Sender\obj\Debug\SMS Sender.pdb
