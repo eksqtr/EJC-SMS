@@ -83,6 +83,20 @@
    - > yourDataGridView.DataSource = SMS.ReadAllMesasges();
    
 - You are done! Easy right? with EJC SMS you can show all SMS in just one line.
+---
+## **SMS Sending error? or No SMS receive?**
+### You can check EJC_SMS Directory folder inside of your respective project (/bin/debug/EJC_SMS). There you can find debug.txt and error.txt allowing you to determine what cause your SMS fail in some events.
+#### **Directory Folder:**
+
+![Directory](https://github.com/eksqtr/EJC-SMS/blob/master/Screenshots/DirectoryFolder.png)
+
+#### **Debug:**
+
+![DebugTxt](https://github.com/eksqtr/EJC-SMS/blob/master/Screenshots/Debugtxt.png)
+
+#### **Error:**
+
+![ErrorTxt](https://github.com/eksqtr/EJC-SMS/blob/master/Screenshots/Errortxt.png)
 
 ---
 ## I made an example System on how to use this EJC SMS
