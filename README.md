@@ -3,7 +3,7 @@
 ## Version 0.5 - March 15, 2020
 ## Programming Language: C# (C-Sharp)
 ---
-### Having troubled making your own Send and Read Messages code for your Project / System using your GSM Modem Device? Say no more. EJC SMS (EJC Short Message Service) is a custom class that use AT Comamnd will let you to Send and Read Messages at ease in which helps you to minimized your time developing your system with SMS Feature.
+### Having trouble on making your own Send and Read Messages code for your Project / System using your GSM Modem Device? Say no more. EJC SMS (EJC Short Message Service) is a library uses AT Comamnd that will let you to Send and Read Messages at ease in which helps you to minimized your time developing your system with SMS Feature.
 ---
 **EJC SMS Features**
 - [x] **Easy to use**
