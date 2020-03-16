@@ -1,0 +1,22 @@
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\bin\Debug\EJC SMS VBNet.exe.config
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\bin\Debug\EJC SMS VBNet.exe
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\bin\Debug\EJC SMS VBNet.pdb
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\bin\Debug\EJC SMS VBNet.xml
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\obj\Debug\EJC SMS VBNet.vbprojAssemblyReference.cache
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\obj\Debug\EJC_SMS_VBNet.Resources.resources
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\obj\Debug\EJC SMS VBNet.vbproj.GenerateResource.cache
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\obj\Debug\EJC SMS VBNet.exe
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\obj\Debug\EJC SMS VBNet.xml
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\obj\Debug\EJC SMS VBNet.pdb
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VB .net)\EJC SMS VBNet\obj\Debug\EJC_SMS_VBNet.frmMain.resources
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\bin\Debug\EJC SMS VBNet.exe.config
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\bin\Debug\EJC SMS VBNet.exe
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\bin\Debug\EJC SMS VBNet.pdb
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\bin\Debug\EJC SMS VBNet.xml
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\obj\Debug\EJC SMS VBNet.vbprojAssemblyReference.cache
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\obj\Debug\EJC_SMS_VBNet.frmMain.resources
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\obj\Debug\EJC_SMS_VBNet.Resources.resources
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\obj\Debug\EJC SMS VBNet.vbproj.GenerateResource.cache
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\obj\Debug\EJC SMS VBNet.exe
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\obj\Debug\EJC SMS VBNet.xml
+D:\06_My Documents\Visual Studio 2019\EJC SMS (VBNet)\obj\Debug\EJC SMS VBNet.pdb
