@@ -187,8 +187,7 @@ Public Class EJCSMS
                     Thread.Sleep(THREAD_SLEEP)
                 End With
 
-                Dim read As Regex
-                Dim match = read.Match(serialPort.ReadExisting(), "\+CMGL: (\d+),""(.+)"",""(.+)"",(.*),""(.+)""\r\n(.+)\r\n")
+                Dim Match As Match = Regex.Match(serialPort.ReadExisting(), "\+CMGL: (\d+),""(.+)"",""(.+)"",(.*),""(.+)""\r\n(.+)\r\n")
 
                 While match.Success
                     Dim row = inboxTable.NewRow()
