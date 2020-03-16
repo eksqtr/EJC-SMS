@@ -14,7 +14,7 @@
 - [x] **Smart Validiation of Phone Numbers based on Philippines Sim Card Prefixes**
 
 
-##**EJC SMS Available Functions:**
+## **EJC SMS Available Functions:**
 
 - **InitSMS()**
    - > **Parameter:** port_name (string)
@@ -37,6 +37,7 @@
  
  - **ReadAllMessages()**
     - > **Parameter:** None
+    - > **Return:** return as DataTable
     - > Reads all the Messages in your Sim Card Inbox.
 
 
