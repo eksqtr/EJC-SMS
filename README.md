@@ -159,4 +159,4 @@
 ### Reading SMS
 ![ReadSMS](https://github.com/eksqtr/EJC-SMS/blob/master/Screenshots/Inbox_Dashboard.png)
 
-##### *Hard Coded by: [Clemente](https://www.facebook.com/eksqtr)*
+##### *Back-end and Front-end developed by: [EJC](https://www.facebook.com/eksqtr)*
